@@ -1,0 +1,5 @@
+name: "Simple action"
+description: "Simple action"
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
